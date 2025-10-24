@@ -51,9 +51,3 @@ Using the extension is automatic, but you can easily manage its features.
 2.  To change settings, click the **puzzle piece icon (🧩)** in your Chrome toolbar to see your list of extensions.
 3.  Click on **"Better VSA X"** to open the popup menu.
 4.  Use the toggles to turn "Status Colours" or "Auto Join Modal Close" on or off. Your preferences are saved instantly.
-
----
-
-## 🐞 Bug Reports & Feature Requests
-
-If you find a bug, the auto-closer stops working, or you have an idea for a new feature, please [**open an issue**](https://github.com/Hebbins/BetterVSAX/issues) on this repository.
