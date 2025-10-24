@@ -20,7 +20,7 @@ Since this extension is not (yet) on the Chrome Web Store, you must install it m
 
 1.  **Download the Extension**
     * Go to the [**Releases Page**](https://github.com/Hebbins/BetterVSAX/releases) of this repository.
-    * Download the latest `.crx` file (e.g., `BetterVSAX.crx`) from the assets.
+    * Download the latest `.crx` file (e.g., `BetterVSAX-1.X.crx`) from the assets.
 
 2.  **Open Chrome Extensions Page**
     * Open a new tab in your Chrome browser.
