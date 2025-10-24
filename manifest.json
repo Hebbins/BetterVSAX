@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Better VSA X",
+  "version": "1.2",
+  "description": "Improves the VSA X interface with quality-of-life features.",
+
+  "update_url": "https://raw.githubusercontent.com/Hebbins/BetterVSAX/main/update.xml",
+  
+  "permissions": [
+    "storage"
+  ],
+
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png"
+    }
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.vsax.net/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
